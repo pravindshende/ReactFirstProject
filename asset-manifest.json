@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactFirstProject/static/css/main.28093ca2.css",
+    "main.js": "/ReactFirstProject/static/js/main.e95116f9.js",
+    "static/js/787.37107a07.chunk.js": "/ReactFirstProject/static/js/787.37107a07.chunk.js",
+    "static/media/denim.png": "/ReactFirstProject/static/media/denim.bf2f04b172ee380ba0d6.png",
+    "static/media/canon.png": "/ReactFirstProject/static/media/canon.768bd2683ec2d74b0e36.png",
+    "static/media/macbook.png": "/ReactFirstProject/static/media/macbook.d257b4f6d8d7e53b0f24.png",
+    "static/media/Iphone.png": "/ReactFirstProject/static/media/Iphone.e2f25d9356281fd1b53f.png",
+    "static/media/spectrum.png": "/ReactFirstProject/static/media/spectrum.a13facba8a546e2081dc.png",
+    "static/media/watch.png": "/ReactFirstProject/static/media/watch.ecd498507cd14fd4d15c.png",
+    "static/media/golf.png": "/ReactFirstProject/static/media/golf.7344e90461b584aafcd0.png",
+    "static/media/headphone.png": "/ReactFirstProject/static/media/headphone.3e93dbd02400a192b221.png",
+    "static/media/led.png": "/ReactFirstProject/static/media/led.0bbfe598d436a5aac50f.png",
+    "index.html": "/ReactFirstProject/index.html",
+    "main.28093ca2.css.map": "/ReactFirstProject/static/css/main.28093ca2.css.map",
+    "main.e95116f9.js.map": "/ReactFirstProject/static/js/main.e95116f9.js.map",
+    "787.37107a07.chunk.js.map": "/ReactFirstProject/static/js/787.37107a07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28093ca2.css",
+    "static/js/main.e95116f9.js"
+  ]
+}
